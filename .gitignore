@@ -4,3 +4,20 @@
 /.settings/
 /.classpath
 .svn/
+.gradle
+.classpath
+.project
+.cache
+.settings
+output
+!output/.gitkeep
+build
+GestionDeProcesos.prj
+# project folders
+bin
+Libs
+Screenshot/
+Reports/
+settings
+Drivers/
+Data Files/
